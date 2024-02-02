@@ -1,4 +1,4 @@
-### Hi, I'm Soul 👋
+### Hi, I'm Saul 👋
 
 <!--
 **SoulESR34/SoulESR34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
